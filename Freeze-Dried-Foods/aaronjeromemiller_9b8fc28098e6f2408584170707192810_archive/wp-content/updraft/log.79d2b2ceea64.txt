@@ -1,0 +1,26 @@
+0183.319 (1) Opened log file at time: Fri, 07 Jul 2017 19:23:53 +0000 on http://aaronjeromemiller.com
+0183.321 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8 PHP: 7.0.20 (cgi-fcgi, Linux srv601.webhostingforstudents.com 3.10.0-614.10.2.lve1.4.50.el7.x86_64 #1 SMP Mon May 22 16:28:14 EDT 2017 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 5.6M | 10M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0183.669 (1) Free space on disk containing Updraft's temporary directory: 26206.4 MB
+0183.677 (1) Backup run: resumption=1, nonce=79d2b2ceea64, begun at=1499455250 (183s ago), job type=backup, previous check-in=10.3s
+0183.684 (1) Scheduling a resumption (2) after 300 seconds (1499455733) in case this run gets aborted
+0183.705 (1) Checking if we have a zip executable available
+0183.708 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0183.711 (1) Creation of backups of directories: already finished
+0183.713 (1) Saving backup status to database (elements: 8)
+0183.727 (1) Database dump (WordPress DB): Creation was completed already
+0183.733 (1) backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/aaronjer/public_html/wp-content/updraft/backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-plugins.zip)
+0183.746 (1) Recording as successfully uploaded: backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-plugins.zip (cc20f9028a3ede993c906e0d3d36ad42)
+0183.783 (1) backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/aaronjer/public_html/wp-content/updraft/backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-themes.zip)
+0183.796 (1) Recording as successfully uploaded: backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-themes.zip (023adb84cefee9816a49c0834ea51a02)
+0183.821 (1) backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/aaronjer/public_html/wp-content/updraft/backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-uploads.zip)
+0183.834 (1) Recording as successfully uploaded: backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-uploads.zip (a010887f3568254e583b3893fe1232db)
+0183.871 (1) backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-others.zip: others: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/aaronjer/public_html/wp-content/updraft/backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-others.zip)
+0183.885 (1) Recording as successfully uploaded: backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-others.zip (1793aecf2e544e6074df81922f210e87)
+0183.911 (1) backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/aaronjer/public_html/wp-content/updraft/backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-db.gz)
+0183.927 (1) Recording as successfully uploaded: backup_2017-07-07-1920_Smart_Food_Cooker_79d2b2ceea64-db.gz (78eb8b80895b7c7e442f383c65ae04a5)
+0183.954 (1) Saving backup history. Total backup size: Unknown
+0183.968 (1) Resume backup (79d2b2ceea64, 1): finish run
+0183.980 (1) There were no more files that needed uploading
+0183.982 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0184.005 (1) No email will be sent - this backup set was empty.
+0184.008 (1) The backup apparently succeeded (with warnings) and is now complete

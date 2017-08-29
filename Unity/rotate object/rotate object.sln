@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9F9D630D-C547-17FE-1075-26C39B57E1C0}") = "rotate object", "Assembly-CSharp.csproj", "{76180628-49CD-02CF-5FD6-808DBAC6220F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76180628-49CD-02CF-5FD6-808DBAC6220F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76180628-49CD-02CF-5FD6-808DBAC6220F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76180628-49CD-02CF-5FD6-808DBAC6220F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76180628-49CD-02CF-5FD6-808DBAC6220F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
